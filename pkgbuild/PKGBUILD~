@@ -2,7 +2,7 @@
 
 pkgname=valet
 pkgdesc="Valet Linux is a Laravel development environment for Linux minimalists."
-depends=('php' 'composer' 'nss' 'jq' 'xsel' 'networkmanager' 'php-gd' 'php-intl' 'php-sqlite' 'php-fpm' 'nginx')
+depends=('php' 'composer' 'nss' 'jq' 'xsel' 'networkmanager' 'php-gd' 'php-intl' 'php-sqlite' 'php-fpm')
 # makedepends=('')
 # conflicts=('')
 pkgver=$(date +%y.%m.%d)
